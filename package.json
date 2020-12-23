@@ -1,0 +1,19 @@
+{
+  "name": "small-apps",
+  "version": "1.0.0",
+  "description": "Small Basic Apps for practice purpose",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Udit Sehra",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://uditsehra@github.com/uditsehra/React-Apps/"
+  },
+  "dependencies": {
+    "bootstrap": "^4.5.3"
+  }
+}

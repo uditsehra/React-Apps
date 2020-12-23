@@ -1,0 +1,22 @@
+{
+  "name": "small-apps",
+  "version": "1.0.0",
+  "description": "Small React Apps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://uditsehra@github.com/uditsehra/React-Apps.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uditsehra/React-Apps/issues"
+  },
+  "homepage": "https://github.com/uditsehra/React-Apps#readme",
+  "dependencies": {
+    "bootstrap": "^4.5.3"
+  }
+}
